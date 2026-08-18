@@ -3,6 +3,9 @@
 2. Validate user input that it should not be earlier than 1900.
 3. If the user enters an invalid year then display an appropriate message then stop or abort the program.
 
+# Code
+
+```python
 def get_chinese_zodiac():
     zodiac_signs = [
         "Rat (鼠 / Shǔ)",
@@ -29,4 +32,10 @@ def get_chinese_zodiac():
         print(f"Your Chinese Zodiac Sign is: {zodiac}")
 
 get_chinese_zodiac()
+```
+# Screenshot of Program Output
+![Zodiac Program Output](images/zodiacprogram.png)
+
+
+
 
