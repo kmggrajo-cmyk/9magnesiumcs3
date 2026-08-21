@@ -19,8 +19,6 @@ def get_chinese_zodiac():
     if birth_year < baseline_year:
         print("Invalid Year, it should not be earlier than 1900")
     else:
-        index = (birth_year - baseline_year) % 12
-        zodiac = zodiac_signs[index]
-        print(f"Your Chinese Zodiac Sign is: {zodiac}")
+        print(f"Your Chinese Zodiac Sign is: {zodiac_signs[(birth_year - baseline_year) % 12]}")
 
 get_chinese_zodiac()

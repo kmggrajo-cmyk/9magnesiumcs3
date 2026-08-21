@@ -2,6 +2,7 @@
 
 ## Student Information
 **Name:** Kate Mycah G. Grajo
+
 **Section:** Magnesium
 
 # Quarter 1
