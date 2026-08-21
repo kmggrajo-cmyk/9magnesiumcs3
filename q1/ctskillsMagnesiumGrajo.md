@@ -1,5 +1,6 @@
 # Smart School Canteen Queue
 **Submitted by:** Kate Mycah G. Grajo
+
 **Section:** 9 - Magnesium
 
 # Step 1: Identify the Big Problem
