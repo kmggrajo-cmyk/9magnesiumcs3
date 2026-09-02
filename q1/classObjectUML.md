@@ -28,7 +28,7 @@ This class represents a musical genre within a music management or streaming sys
 
 
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](q1/images/classDiagram.png)
 
 ## Design Explanation
 
