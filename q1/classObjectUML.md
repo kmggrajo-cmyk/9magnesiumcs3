@@ -42,4 +42,4 @@ The `genreName` property is the most important because it encapsulates the prima
 
 ### Which method is the most useful? Why?
 
-The `updateFamousSong(songInfo: String)` method is the most useful because musical trends and hits are continuously changing. Having a method with a parameter allows the system to easily keep up with new trends and update the representative top track whenever a fresh song takes over the charts.
+The `updateFamousSong(songInfo: string)` method is the most useful because musical trends and hits are continuously changing. Having a method with a parameter allows the system to easily keep up with new trends and update the representative top track whenever a fresh song takes over the charts.
