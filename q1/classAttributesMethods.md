@@ -1,14 +1,14 @@
 # Class Attributes and Methods
 
 ## Previous Design
-Link to my previous activity: [classObjectUML.md]
+Link to my previous activity:(classObjectUML.md)
 
 ## Design Revision
 No major changes were needed from my original design.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | genreName | string | Public (+) | The primary identifying label of the genre; represents the public title/identity of the genre.|
 | totalStreams | int | Private (-) | Protects stream statistics from direct manual modification, ensuring numbers are updated safely.|
 | averageBpm | int | Public (+) | Represents the general tempo of the music genre, which is used to provide information about the genre to the populace. |
@@ -39,7 +39,7 @@ out global statistics). Keeping it private ensures that stream adjustments only 
 Basically, an object’s state is the data stored in its variables (attributes) at any given moment. With this, since both of the methods I chose change that data, then both methods also change the state. The updateStreamsCount(addedStreams) method changes the internal state of the object by adding new streams to the private __totalStreams attribute. It takes a number (addedStreams) and adds it into the existing total. As for the state change, it overwrites the old number stored in __totalStreams with a new number. Additionally, updateFamousSong(songInfo) alters state by updating the famousSong string whenever a new song becomes the top hit. It takes new information (songInfo) about a top hit song. It replaces the old text stored in famousSong with the new song text.
 
 ### How did your two objects demonstrate that instances are independent?
-When Object 1 and Object 2 were created, the computer built two completely different sanctuaries. within the confines of its memory. Because of this distinctness or difference in “sanctuaries,” changing information on one sanctuary will never disrupt the other. When I called updateStreamsCount (600000) and updateFamousSong (Say So - Doja Cat) on Object 1 (Pop), its streams inscreased by 1000000 (initially from 500000) and the top hit inscribed is altered. Meanwhile, Object 2 (RNB) kept its original stream count 3000000 and its orignal famous song (Miss Independent - Ne-Yo).
+When Object 1 and Object 2 were created, the computer built two completely different sanctuaries. within the confines of its memory. Because of this distinctness or difference in “sanctuaries,” changing information on one sanctuary will never disrupt the other. When I called updateStreamsCount (6000000) and updateFamousSong (Say So - Doja Cat) on Object 1 (Pop), its streams inscreased by 1000000 (initially from 5000000) and the top hit inscribed is altered. Meanwhile, Object 2 (RNB) kept its original stream count 3000000 and its orignal famous song (Miss Independent - Ne-Yo).
 
 ### What is the difference between your class diagram and your object diagram?
 The class diagram acts as an abstract blueprint that defines the general properties, data types, visibility (+/-), and methods available to all Genre objects. Simply, it is just basically a list of rules
