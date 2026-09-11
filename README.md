@@ -14,4 +14,4 @@
 * [OOP Act](q1/classObjectUML.md)
 ### OOP Class Diagram
 ![Class Diagram](q1/images/classDiagram.png)
-* [Class Attributed and Methods](q1/classAttributesMethods.md)
+* [Class Attributes and Methods](q1/classAttributesMethods.md)
