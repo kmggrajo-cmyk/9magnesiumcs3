@@ -1,7 +1,9 @@
 # Class Attributes and Methods
 
 ## Previous Design
-Link to my previous activity:(classObjectUML.md)
+Link to my previous activity:
+[classObjectUML.md]
+(classObjectUML.md)
 
 ## Design Revision
 No major changes were needed from my original design.
