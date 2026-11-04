@@ -17,3 +17,5 @@
 * [OOP PART 2: Class Attributes and Methods](q1/classAttributesMethods.md)
 * [SG8 ENCAPSULATION](q2/sg8_encapsulation.py)
 * [SG9 INHERITANCE](q2/sg9_Inheritance.py)
+* [SG10_OVERRIDING/POLYMORPHISM](q2/sg10_overriding.py)
+* 
