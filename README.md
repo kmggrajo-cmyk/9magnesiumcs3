@@ -16,4 +16,4 @@
 ![Class Diagram](q1/images/classDiagram.png)
 * [OOP PART 2: Class Attributes and Methods](q1/classAttributesMethods.md)
 * [SG8 ENCAPSULATION](q2/sg8_encapsulation.py)
-* [SG9 INHERITANCE](q2/sg9_Inhertiance.py)
+* [SG9 INHERITANCE](q2/sg9_Inheritance.py)
