@@ -1,4 +1,4 @@
-# Computer Science 3 Portfolio
+<img width="922" height="536" alt="image" src="https://github.com/user-attachments/assets/590b7e78-5cd6-4ab8-8e02-31b6c8081d26" /># Computer Science 3 Portfolio
 
 ## Student Information
 **Name:** Kate Mycah G. Grajo
@@ -18,5 +18,6 @@
 * [SG8 ENCAPSULATION](q2/sg8_encapsulation.py)
 * [SG9 INHERITANCE](q2/sg9_Inheritance.py)
 * [SG10_OVERRIDING/POLYMORPHISM](q2/sg10_overriding.py)
-* [SG11 POLYMORPHISM](q2/sg11_polymorphism1.py)
+* [SG11 POLYMORPHISM 1](q2/sg11_polymorphism1.py)
+* [SG11_POLYMORPHISM 2](q2/sg11_polymorphism2.md)
   
