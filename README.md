@@ -1,4 +1,4 @@
-<img width="922" height="536" alt="image" src="https://github.com/user-attachments/assets/590b7e78-5cd6-4ab8-8e02-31b6c8081d26" /># Computer Science 3 Portfolio
+
 
 ## Student Information
 **Name:** Kate Mycah G. Grajo
