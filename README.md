@@ -18,3 +18,5 @@
 * [SG8 ENCAPSULATION](q2/sg8_encapsulation.py)
 * [SG9 INHERITANCE](q2/sg9_Inheritance.py)
 * [SG10_OVERRIDING/POLYMORPHISM](q2/sg10_overriding.py)
+* [SG11 POLYMORPHISM](q2/sg11_polymorphism1.py)
+  
