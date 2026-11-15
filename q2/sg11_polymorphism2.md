@@ -27,7 +27,7 @@ c. Creates one object of each class.
 d. Calls the start_trip() method for each object.
 
 ## Answer
-* [SG 11 ACTIVITY 2 QUESTION 2 CODE](sg11_polymorphism2.py)
+* [SG 11 ACTIVITY 2 QUESTION 2 CODE](q2/sg11_polymorphism2.py)
 
 ## 3. How does the code in 2.2 demonstrate polymorphism?
 
